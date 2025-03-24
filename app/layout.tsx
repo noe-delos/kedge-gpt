@@ -14,8 +14,8 @@ const ubuntu = Ubuntu({
 });
 
 export const metadata: Metadata = {
-  title: "essec-gpt",
-  description: "L'assistant alumni IA de l'essec",
+  title: "KEDGE-gpt",
+  description: "L'assistant alumni IA de l'KEDGE",
 };
 
 export default function RootLayout({
